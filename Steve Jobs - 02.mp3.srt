@@ -1,0 +1,2287 @@
+1
+00:00:00,100 --> 00:00:06,299
+I started to listen to music a whole lot, and I started to read more outside of just science and technology.
+
+2
+00:00:06,299 --> 00:00:09,980
+Shakespeare, Plato, I loved King Lear.
+
+3
+00:00:09,980 --> 00:00:15,320
+His other favorites included Moby Dick and the poems of Dylan Thomas.
+
+4
+00:00:15,320 --> 00:00:27,540
+I asked him why he related to King Lear and Captain Ahab, two of the most willful and driven characters in literature, but he didn't respond to the connection I was making, so I let it drop.
+
+5
+00:00:28,540 --> 00:00:32,800
+When I was a senior, I had this phenomenal AP English class.
+
+6
+00:00:33,049 --> 00:00:35,740
+The teacher was this guy who looked like Ernest Hemingway.
+
+7
+00:00:35,740 --> 00:00:38,719
+He took a bunch of us snowshoeing in Yosemite.
+
+8
+00:00:40,369 --> 00:00:44,140
+One course the jobs took would become part of Silicon Valley lore.
+
+9
+00:00:44,140 --> 00:00:55,959
+The electronics class taught by John McCollum, a former Navy pilot who had a showman's flair for exciting his students with such tricks as firing up a Tesla coil.
+
+10
+00:00:55,959 --> 00:01:04,959
+His little stock room, to which he would lend the key to pet students, was crammed with transistors and other components he had scored.
+
+11
+00:01:06,259 --> 00:01:15,959
+McCollum's classroom was in a shed-like building on the edge of the campus next to the parking lot, This is where it was, Jobs recalled as he peered in the window.
+
+12
+00:01:15,959 --> 00:01:20,039
+And here, next door, is where the auto shop class used to be.
+
+13
+00:01:20,039 --> 00:01:26,019
+The juxtaposition highlighted the shift from the interests of his father's generation.
+
+14
+00:01:26,019 --> 00:01:31,539
+Mr. McCollum felt that electronics class was the new auto shop.
+
+15
+00:01:33,260 --> 00:01:37,290
+McCollum believed in military discipline and respect for authority.
+
+16
+00:01:37,290 --> 00:01:39,950
+Jobs didn't.
+
+17
+00:01:39,950 --> 00:01:51,010
+His aversion to authority was something he no longer tried to hide, and he affected an attitude that combined wiry and weird intensity with aloof rebelliousness.
+
+18
+00:01:51,010 --> 00:02:01,320
+McCollum later said, he was usually off in a corner doing something on his own and really didn't want to have much of anything to do with either me or the rest of the class.
+
+19
+00:02:01,320 --> 00:02:05,400
+He never trusted jobs with a key to the stockroom.
+
+20
+00:02:06,430 --> 00:02:17,340
+One day Jobs needed a part that was not available, so he made a collect call to the manufacturer, Burroughs in Detroit, and said he was designing a new product and wanted to test out the part.
+
+21
+00:02:17,340 --> 00:02:20,540
+It arrived by air freight a few days later.
+
+22
+00:02:20,540 --> 00:02:28,819
+When McCollum asked how he had gotten it, Jobs described with defiant pride the collect call and the tale he had told.
+
+23
+00:02:28,819 --> 00:02:32,000
+I was furious, McCollum said.
+
+24
+00:02:32,000 --> 00:02:35,640
+That was not the way I wanted my students to behave.
+
+25
+00:02:36,759 --> 00:02:40,419
+Job's response was, I don't have the money for the phone call.
+
+26
+00:02:40,419 --> 00:02:42,079
+They've got plenty of money.
+
+27
+00:02:44,169 --> 00:02:49,319
+Jobs took McCollum's class for only one year, rather than the three that it was offered.
+
+28
+00:02:49,319 --> 00:02:59,680
+For one of his projects, he made a device with a photo cell that would switch on a circuit when exposed to light, something any high school science student could have done.
+
+29
+00:02:59,680 --> 00:03:05,479
+He was far more interested in playing with lasers, something he learned from his father.
+
+30
+00:03:06,240 --> 00:03:14,099
+With a few friends, he created light shows for parties by bouncing lasers off mirrors on the speakers of his stereo system.
+
+31
+00:03:18,580 --> 00:03:26,780
+CHAPTER TWO Odd Couple THE TWO STEVES Waz.
+
+32
+00:03:26,780 --> 00:03:38,879
+While a student in McCollum's class, Jobs became friends with a graduate who was the teacher's all-time favorite and a school legend for his wizardry in the class.
+
+33
+00:03:38,879 --> 00:03:49,719
+Stephen Wozniak, whose younger brother had been on a swim team with Jobs, was almost five years older than Jobs and far more knowledgeable about electronics.
+
+34
+00:03:49,719 --> 00:03:54,019
+But emotionally and socially, he was still a high school geek.
+
+35
+00:03:54,979 --> 00:03:58,560
+Like Jobs, Wozniak learned a lot at his father's knee.
+
+36
+00:03:59,340 --> 00:04:00,680
+But their lessons were different.
+
+37
+00:04:00,680 --> 00:04:09,140
+Paul Jobs was a high school dropout who, when fixing up cars, knew how to turn a tidy profit by striking the right deal on parts.
+
+38
+00:04:10,830 --> 00:04:21,720
+Francis Wozniak, known as Jerry, was a brilliant engineering graduate from Caltech, where he had quarterbacked the football team, who became a rocket scientist at Lockheed.
+
+39
+00:04:21,720 --> 00:04:28,019
+He exalted engineering and looked down on those in business, marketing, and sales.
+
+40
+00:04:28,019 --> 00:04:36,900
+I remember him telling me that engineering was the highest level of importance you could reach in the world, Steve Wozniak later recalled.
+
+41
+00:04:36,900 --> 00:04:39,960
+It takes society to a new level.
+
+42
+00:04:41,640 --> 00:04:53,210
+One of Steve Wozniak's first memories was going to his father's workplace on a weekend and being shown electronic parts, with his dad putting them on a table with me so I got to play with them.
+
+43
+00:04:53,210 --> 00:05:04,260
+He watched with fascination as his father tried to get a waveform line on a video screen to stay flat so he could show that one of his circuit designs was working properly.
+
+44
+00:05:04,260 --> 00:05:09,920
+I could see that whatever my dad was doing, it was important and good.
+
+45
+00:05:11,000 --> 00:05:17,320
+Woz, as he was known even then, would ask about the resistors and transistors lying around the house.
+
+46
+00:05:17,899 --> 00:05:21,259
+his father would pull out a blackboard to illustrate what they did.
+
+47
+00:05:21,259 --> 00:05:27,539
+He would explain what a resistor was by going all the way back to atoms and electrons.
+
+48
+00:05:27,539 --> 00:05:36,000
+He explained how resistors worked when I was in second grade, not by equations, but by having me picture it.
+
+49
+00:05:37,569 --> 00:05:44,740
+Was his father taught him something else that became ingrained in his childlike, socially awkward personality?
+
+50
+00:05:44,740 --> 00:05:46,519
+Never lie.
+
+51
+00:05:46,519 --> 00:05:50,939
+My dad believed in honesty, extreme honesty.
+
+52
+00:05:50,939 --> 00:05:53,000
+That's the biggest thing he taught me.
+
+53
+00:05:53,000 --> 00:05:55,720
+I never lie, even to this day.
+
+54
+00:05:55,720 --> 00:06:01,279
+The only partial exception was in the service of a good practical joke.
+
+55
+00:06:01,279 --> 00:06:07,000
+In addition, he imbued his son with an aversion to extreme ambition.
+
+56
+00:06:07,550 --> 00:06:09,899
+which set Waz apart from Jobs.
+
+57
+00:06:11,009 --> 00:06:18,519
+At an Apple product launch event in 2010, 40 years after they met, Woz reflected on their differences.
+
+58
+00:06:18,519 --> 00:06:23,859
+My father told me, you always want to be in the middle, he said.
+
+59
+00:06:23,859 --> 00:06:28,000
+I didn't want to be up with the high-level people like Steve.
+
+60
+00:06:28,000 --> 00:06:31,799
+My dad was an engineer, and that's what I wanted to be.
+
+61
+00:06:31,799 --> 00:06:35,939
+I was way too shy ever to be a business leader like Steve.
+
+62
+00:06:37,670 --> 00:06:42,860
+By fourth grade, Wozniak became, as he put it, one of the electronics kids.
+
+63
+00:06:42,860 --> 00:06:55,320
+He had an easier time making eye contact with a transistor than with a girl, and he developed the chunky and stooped look of a guy who spends most of his time hunched over circuit boards.
+
+64
+00:06:55,320 --> 00:07:14,759
+At the same age when Jobs was puzzling over a carbon microphone that his dad couldn't explain, Wozniak was using transistors to build an intercom system featuring amplifiers, relays, lights, and buzzers that connected the kids' bedrooms of six houses in the neighborhood.
+
+65
+00:07:15,929 --> 00:07:26,779
+And at an age when Jobs was building Heath kits, Wozniak was assembling a transmitter and receiver from Halicrafters, the most sophisticated radios available.
+
+66
+00:07:28,489 --> 00:07:39,359
+Waugh spent a lot of time at home reading his father's electronics journals, and he became enthralled by stories about new computers, such as the powerful ENIAC.
+
+67
+00:07:39,359 --> 00:07:47,219
+Because Boolean algebra came naturally to him, he marveled at how simple rather than complex the computers were.
+
+68
+00:07:47,219 --> 00:07:58,279
+In eighth grade, he built a calculator that included 100 transistors, 200 diodes, and 200 resistors on 10 circuit boards.
+
+69
+00:07:59,189 --> 00:08:06,540
+It won top prize in a local contest run by the Air Force, even though the competitors included students through 12th grade.
+
+70
+00:08:08,489 --> 00:08:17,599
+Woz became more of a loner when the boys his age began going out with girls and partying, endeavors that he found far more complex than designing circuits.
+
+71
+00:08:17,599 --> 00:08:25,199
+Where before I was popular and riding bikes and everything, suddenly I was socially shut out, he recalled.
+
+72
+00:08:25,199 --> 00:08:29,139
+It seemed like nobody spoke to me for the longest time.
+
+73
+00:08:29,139 --> 00:08:32,840
+He found an outlet by playing juvenile pranks.
+
+74
+00:08:32,840 --> 00:08:43,779
+In twelfth grade, he built an electronic metronome, one of those tick-tick-tick devices that keep time in music class, and realized it sounded like a bomb.
+
+75
+00:08:43,779 --> 00:08:50,440
+So he took the labels off some big batteries, taped them together, and put it in a school locker.
+
+76
+00:08:50,440 --> 00:08:54,360
+He rigged it to start ticking faster when the locker opened.
+
+77
+00:08:54,360 --> 00:08:59,120
+Later that day, he got called to the principal's office.
+
+78
+00:08:59,120 --> 00:09:04,059
+He thought it was because he had won yet again the school's top math prize.
+
+79
+00:09:04,059 --> 00:09:07,120
+Instead, he was confronted by the police.
+
+80
+00:09:07,120 --> 00:09:17,200
+The principal had been summoned when the device was found, Bravely ran onto the football field, clutching it to his chest, and pulled the wires off.
+
+81
+00:09:18,149 --> 00:09:21,060
+Woz tried and failed to suppress his laughter.
+
+82
+00:09:21,060 --> 00:09:26,519
+He actually got sent to the juvenile detention center, where he spent the night.
+
+83
+00:09:26,519 --> 00:09:28,840
+It was a memorable experience.
+
+84
+00:09:28,840 --> 00:09:38,340
+He taught the other prisoners how to disconnect the wires leading to the ceiling fans and connect them to the bars so people got shocked when touching them.
+
+85
+00:09:39,949 --> 00:09:42,600
+Getting shocked was a badge of honor for Woz.
+
+86
+00:09:42,600 --> 00:09:49,519
+He prided himself on being a hardware engineer, which meant that random shocks were routine.
+
+87
+00:09:49,519 --> 00:09:54,980
+He once devised a roulette game where four people put their thumbs in a slot.
+
+88
+00:09:54,980 --> 00:09:58,299
+When the ball landed, one would get shocked.
+
+89
+00:09:58,299 --> 00:10:04,379
+Hardware guys will play this game, but software guys are too chicken, he noted.
+
+90
+00:10:06,009 --> 00:10:12,659
+During his senior year, he got a part-time job at Sylvania and had the chance to work on a computer for the first time.
+
+91
+00:10:12,659 --> 00:10:21,980
+He learned Fortran from a book and read the manuals for most of the systems of the day, starting with the digital equipment PDP-8.
+
+92
+00:10:21,980 --> 00:10:29,000
+Then he studied the specs for the latest microchips and tried to redesign the computers using these newer parts.
+
+93
+00:10:29,000 --> 00:10:35,700
+The challenge, he set himself, was to replicate the design using the fewest components possible.
+
+94
+00:10:36,770 --> 00:10:39,980
+Each night he would try to improve his drawing from the night before.
+
+95
+00:10:39,980 --> 00:10:43,460
+By the end of his senior year, he had become a master.
+
+96
+00:10:43,460 --> 00:10:51,879
+I was now designing computers with half the number of chips the actual company had in their own design, but only on paper.
+
+97
+00:10:51,879 --> 00:10:54,240
+He never told his friends.
+
+98
+00:10:54,240 --> 00:10:59,160
+After all, most seventeen-year-olds were getting their kicks in other ways.
+
+99
+00:11:00,899 --> 00:11:06,220
+On Thanksgiving weekend of his senior year, Wozniak visited the University of Colorado.
+
+100
+00:11:06,220 --> 00:11:12,399
+It was closed for the holiday, but he found an engineering student who took him on a tour of the labs.
+
+101
+00:11:12,399 --> 00:11:20,840
+He begged his father to let him go there, even though the out-of-state tuition was more than the family could easily afford.
+
+102
+00:11:20,840 --> 00:11:22,740
+They struck a deal.
+
+103
+00:11:22,740 --> 00:11:29,879
+He would be allowed to go for one year, but then he would transfer to De Anza Community College back home.
+
+104
+00:11:30,929 --> 00:11:45,779
+After arriving at Colorado in the fall of 1969, he spent so much time playing pranks, such as producing reams of printouts saying, Fuck Nixon, that he failed a couple of his courses and was put on probation.
+
+105
+00:11:45,779 --> 00:11:56,220
+In addition, he created a program to calculate Fibonacci numbers that burned up so much computer time the university threatened to bill him for the cost.
+
+106
+00:11:56,769 --> 00:12:02,319
+So he readily lived up to his bargain with his parents and transferred to De Anza.
+
+107
+00:12:04,059 --> 00:12:08,379
+After a pleasant year at De Anza, Wozniak took time off to make some money.
+
+108
+00:12:08,379 --> 00:12:16,639
+He found work at a company that made computers for the California Motor Vehicle Department, and a co-worker made him a wonderful offer.
+
+109
+00:12:16,639 --> 00:12:23,399
+He would provide some spare chips so Wozniak could make one of the computers he had been sketching on paper.
+
+110
+00:12:23,399 --> 00:12:33,860
+Wozniak decided to use as few chips as possible, both as a personal challenge and because he did not want to take advantage of his colleague's largesse.
+
+111
+00:12:35,429 --> 00:12:42,100
+Much of the work was done in the garage of a friend just around the corner, Bill Fernandez, who was still at Homestead High.
+
+112
+00:12:42,100 --> 00:12:54,519
+To lubricate their efforts, they drank large amounts of Cragmont cream soda, riding their bikes to the Sunnyvale Safeway to return the bottles, collect the deposits, and buy more.
+
+113
+00:12:54,519 --> 00:13:00,139
+That's how we started referring to it as the cream soda computer, Wozniak recalled.
+
+114
+00:13:01,039 --> 00:13:10,159
+It was basically a calculator capable of multiplying numbers entered by a set of switches and displaying the results in binary code with little lights.
+
+115
+00:13:11,759 --> 00:13:17,520
+When it was finished, Fernandez told Wozniak there was someone at Homestead High he should meet.
+
+116
+00:13:17,520 --> 00:13:19,540
+His name is Steve.
+
+117
+00:13:19,540 --> 00:13:24,560
+He likes to do pranks like you do, and he's also into building electronics like you are.
+
+118
+00:13:24,560 --> 00:13:33,800
+It may have been the most significant meeting in a Silicon Valley garage since Hewlett went into Packard's 32 years earlier.
+
+119
+00:13:33,800 --> 00:13:46,700
+Steve and I just sat on the sidewalk in front of Bill's house for the longest time, just sharing stories, mostly about pranks we'd pulled, and also what kind of electronic designs we'd done.
+
+120
+00:13:47,299 --> 00:13:48,299
+Wozniak recalled.
+
+121
+00:13:48,299 --> 00:13:50,620
+We had so much in common.
+
+122
+00:13:50,620 --> 00:13:59,379
+Typically, it was really hard for me to explain to people what kind of design stuff I worked on, but Steve got it right away, and I liked him.
+
+123
+00:13:59,379 --> 00:14:02,839
+He was kind of skinny and wiry and full of energy.
+
+124
+00:14:02,839 --> 00:14:05,799
+Jobs was also impressed.
+
+125
+00:14:05,799 --> 00:14:14,079
+Woz was the first person I'd met who knew more electronics than I did, he once said, stretching his own expertise.
+
+126
+00:14:14,079 --> 00:14:16,659
+I liked him right away.
+
+127
+00:14:16,659 --> 00:14:22,979
+I was a little more mature than my years, and he was a little less mature than his, so it evened out.
+
+128
+00:14:23,539 --> 00:14:27,559
+Woz was very bright, but emotionally he was my age.
+
+129
+00:14:29,429 --> 00:14:33,799
+In addition to their interest in computers, they shared a passion for music.
+
+130
+00:14:33,799 --> 00:14:38,159
+It was an incredible time for music, Jobs recalled.
+
+131
+00:14:38,159 --> 00:14:42,480
+It was like living at a time when Beethoven and Mozart were alive.
+
+132
+00:14:42,480 --> 00:14:46,100
+Really, people will look back on it that way.
+
+133
+00:14:46,100 --> 00:14:48,819
+And Woz and I were deeply into it.
+
+134
+00:14:48,819 --> 00:14:54,840
+In particular, Wozniak turned Jobs onto the glories of Bob Dylan.
+
+135
+00:14:55,889 --> 00:15:00,849
+We tracked down this guy in Santa Cruz who put out this newsletter on Dillon, Bob said.
+
+136
+00:15:00,849 --> 00:15:12,719
+Dylan taped all of his concerts, and some of the people around him were not scrupulous, because soon there were tapes all around, bootlegs of everything, and this guy had them all.
+
+137
+00:15:14,370 --> 00:15:17,399
+Hunting down Dylan tapes soon became a joint venture.
+
+138
+00:15:17,399 --> 00:15:24,639
+The two of us would go tramping through San Jose and Berkeley and ask about Dylan bootlegs and collect them, said Wozniak.
+
+139
+00:15:24,639 --> 00:15:29,779
+We'd buy brochures of Dylan lyrics and stay up late interpreting them.
+
+140
+00:15:29,779 --> 00:15:33,719
+Dylan's words struck chords of creative thinking.
+
+141
+00:15:33,719 --> 00:15:44,000
+Added Jobs, I had more than a hundred hours, including every concert on the 65 and 66 tour, the one where Dylan went electric.
+
+142
+00:15:45,049 --> 00:15:48,659
+Both of them bought high-end TEAC reel-to-reel tape decks.
+
+143
+00:15:48,659 --> 00:15:54,980
+I would use mine at a low speed to record many concerts on one tape, said Wozniak.
+
+144
+00:15:54,980 --> 00:15:57,899
+Jobs matched his obsession.
+
+145
+00:15:57,899 --> 00:16:06,360
+Instead of big speakers, I bought a pair of awesome headphones and would just lie in my bed and listen to that stuff for hours.
+
+146
+00:16:08,240 --> 00:16:14,020
+Jobs had formed a club at Homestead High to put on music and light shows and also play pranks.
+
+147
+00:16:14,020 --> 00:16:19,259
+They once glued a gold-painted toilet seat onto a flower planter.
+
+148
+00:16:19,259 --> 00:16:23,940
+It was called the Buck Fry Club, a play on the name of the principal.
+
+149
+00:16:23,940 --> 00:16:37,400
+Even though they had already graduated, Wozniak and his friend Alan Baum joined forces with Jobs at the end of his junior year to produce a farewell gesture for the departing seniors.
+
+150
+00:16:38,559 --> 00:16:44,879
+Showing off the homestead campus four decades later, Jobs paused at the scene of the escapade and pointed.
+
+151
+00:16:44,879 --> 00:16:46,559
+See that balcony?
+
+152
+00:16:46,559 --> 00:16:50,360
+That's where we did the banner prank that sealed our friendship.
+
+153
+00:16:50,360 --> 00:16:59,740
+On a big bedsheet Baum had tie-dyed with the school's green and white colors, they painted a huge hand flipping the middle finger salute.
+
+154
+00:16:59,740 --> 00:17:07,920
+Baum's nice Jewish mother even helped them draw it and showed them how to do the shading and shadows to make it look more real.
+
+155
+00:17:08,960 --> 00:17:11,200
+I know what that is, she snickered.
+
+156
+00:17:11,200 --> 00:17:23,019
+They devised a system of ropes and pulleys so that it could be dramatically lowered as the graduating class marched past the balcony, and they signed it, Swab Job.
+
+157
+00:17:23,019 --> 00:17:28,580
+The initials of Wozniak and Baum combined with part of Job's name.
+
+158
+00:17:28,580 --> 00:17:35,259
+The prank became part of school lore and got Job suspended one more time.
+
+159
+00:17:36,849 --> 00:17:41,960
+Another prank involved a pocket device Wozniak built that could emit TV signals.
+
+160
+00:17:41,960 --> 00:17:51,700
+He would take it to a room where a group of people were watching TV, such as in a dorm, and secretly press the button so that the screen would get fuzzy with static.
+
+161
+00:17:51,700 --> 00:17:57,879
+When someone got up and whacked the set, Wozniak would let go of the button and the picture would clear up.
+
+162
+00:17:57,879 --> 00:18:04,379
+Once he had the unsuspecting viewers hopping up and down at his will, he would make things harder.
+
+163
+00:18:05,399 --> 00:18:09,500
+He would keep the picture fuzzy until someone touched the antennae.
+
+164
+00:18:09,779 --> 00:18:16,980
+Eventually, he would make people think they had to hold the antenna while standing on one foot or touching the top of the set.
+
+165
+00:18:16,980 --> 00:18:27,400
+Years later, at a keynote presentation where he was having his own trouble getting a video to work, Jobs broke from his script and recounted the fun they had with the device.
+
+166
+00:18:27,400 --> 00:18:36,720
+Woz would have it in his pocket, and we'd go into a dorm where a bunch of folks would be like watching Star Trek, and he'd screw up the TV.
+
+167
+00:18:36,720 --> 00:18:43,019
+and someone would go up to fix it and just as they had the foot off the ground he would turn it back on.
+
+168
+00:18:43,500 --> 00:18:46,660
+and as they put their foot back on the ground, he'd screw it up again.
+
+169
+00:18:46,660 --> 00:18:56,519
+Contorting himself into a pretzel on stage, Jobs concluded to great laughter, and within five minutes, he would have someone like this.
+
+170
+00:19:00,609 --> 00:19:01,459
+the blue box.
+
+171
+00:19:03,619 --> 00:19:16,480
+The ultimate combination of pranks and electronics and the escapade that helped to create Apple was launched one Sunday afternoon when Wozniak read an article in Esquire that his mother had left for him on the kitchen table.
+
+172
+00:19:16,480 --> 00:19:23,919
+It was September 1971, and he was about to drive off the next day to Berkeley, his third college.
+
+173
+00:19:23,919 --> 00:19:41,079
+The story, Ron Rosenbaum's Secrets of the Little Blue Box, described how hackers and phone freakers had found ways to make long-distance calls for free by replicating the tones that routed signals on the AT&T network.
+
+174
+00:19:42,149 --> 00:19:50,259
+Halfway through the article, I had to call my best friend Steve Jobs and read parts of this long article to him, Wozniak recalled.
+
+175
+00:19:50,259 --> 00:19:57,659
+He knew that Jobs, then beginning his senior year, was one of the few people who would share his excitement.
+
+176
+00:19:57,659 --> 00:20:21,900
+A hero of the piece was John Draper, a hacker known as Captain Crunch, because he had discovered that the sound emitted by the toy whistle that came with the breakfast cereal was the same 2600 hertz tone used by the phone network's call routing switches— It could fool the system into allowing a long-distance call to go through without extra charges.
+
+177
+00:20:21,900 --> 00:20:35,380
+The article revealed that other tones that serve to route calls could be found in an issue of the Bell System Technical Journal, which AT&T immediately began asking libraries to pull from their shelves.
+
+178
+00:20:37,220 --> 00:20:45,340
+As soon as Jobs got the call from Wozniak that Sunday afternoon, he knew they would have to get their hands on the technical journal right away.
+
+179
+00:20:45,340 --> 00:20:56,500
+Woz picked me up a few minutes later, and we went to the library at SLAC, the Stanford Linear Accelerator Center, to see if we could find it, Jobs recounted.
+
+180
+00:20:56,500 --> 00:21:02,920
+It was Sunday, and the library was closed, but they knew how to get in through a door that was rarely locked.
+
+181
+00:21:03,900 --> 00:21:11,220
+I remember that we were furiously digging through the stacks, and it was Woz who finally found the journal with all the frequencies.
+
+182
+00:21:11,220 --> 00:21:14,340
+It was like holy shit, and we opened it.
+
+183
+00:21:14,700 --> 00:21:15,500
+And there it was.
+
+184
+00:21:15,500 --> 00:21:17,720
+We kept saying to ourselves, it's real.
+
+185
+00:21:17,720 --> 00:21:19,160
+Holy shit, it's real.
+
+186
+00:21:19,160 --> 00:21:20,740
+It was all laid out.
+
+187
+00:21:20,740 --> 00:21:22,440
+The tones, the frequencies.
+
+188
+00:21:24,259 --> 00:21:32,039
+Wozniak went to Sunnyvale Electronics before it closed that evening and bought the parts to make an analog tone generator.
+
+189
+00:21:32,039 --> 00:21:40,900
+Jobs had built a frequency counter when he was part of the HP Explorers Club, and they used it to calibrate the desired tones.
+
+190
+00:21:40,900 --> 00:21:46,940
+With a dial, they could replicate and tape record the sounds specified in the article.
+
+191
+00:21:46,940 --> 00:21:49,840
+By midnight, they were ready to test it.
+
+192
+00:21:50,610 --> 00:21:58,160
+Unfortunately, the oscillators they used were not quite stable enough to replicate the right chirps to fool the phone company.
+
+193
+00:21:59,230 --> 00:22:06,160
+We could see the instability using Steve's frequency counter, recalled Wozniak, and we just couldn't make it work.
+
+194
+00:22:06,160 --> 00:22:13,440
+I had to leave for Berkeley the next morning, so we decided I would work on building a digital version once I got there.
+
+195
+00:22:15,250 --> 00:22:21,400
+No one had ever created a digital version of a blue box, but Waz was made for the challenge.
+
+196
+00:22:21,400 --> 00:22:32,319
+Using diodes and transistors from Radio Shack, and with the help of a music student in his dorm who had perfect pitch, he got it built before Thanksgiving.
+
+197
+00:22:32,319 --> 00:22:36,559
+I have never designed a circuit I was prouder of, he said.
+
+198
+00:22:36,559 --> 00:22:38,620
+I still think it was incredible.
+
+199
+00:22:40,220 --> 00:22:43,880
+One night, Wozniak drove down from Berkeley to Jobs' house to try it.
+
+200
+00:22:43,880 --> 00:22:49,580
+They attempted to call Wozniak's uncle in Los Angeles, but they got a wrong number.
+
+201
+00:22:49,580 --> 00:22:51,140
+It didn't matter.
+
+202
+00:22:51,140 --> 00:22:52,840
+Their device had worked.
+
+203
+00:22:52,840 --> 00:22:54,000
+Hi!
+
+204
+00:22:54,000 --> 00:22:55,960
+We're calling you for free!
+
+205
+00:22:55,960 --> 00:22:57,700
+We're calling you for free!
+
+206
+00:22:57,700 --> 00:22:59,140
+Wozniak shouted.
+
+207
+00:22:59,140 --> 00:23:02,880
+The person on the other end was confused and annoyed.
+
+208
+00:23:02,880 --> 00:23:04,960
+Jobs chimed in.
+
+209
+00:23:04,960 --> 00:23:06,880
+We're calling from California.
+
+210
+00:23:06,880 --> 00:23:08,240
+From California!
+
+211
+00:23:08,240 --> 00:23:09,680
+With a blue box!
+
+212
+00:23:10,680 --> 00:23:15,039
+This probably baffled the man even more since he was also in California.
+
+213
+00:23:16,819 --> 00:23:19,660
+At first, the blue box was used for fun and pranks.
+
+214
+00:23:19,660 --> 00:23:28,299
+The most daring of these was when they called the Vatican, and Wozniak pretended to be Henry Kissinger wanting to speak to the Pope.
+
+215
+00:23:28,299 --> 00:23:37,139
+We are at the summit meeting in Moscow, and we need to talk to the Pope, Woz intoned.
+
+216
+00:23:37,139 --> 00:23:41,879
+He was told that it was 5.30 a.m., and the Pope was sleeping.
+
+217
+00:23:41,879 --> 00:23:46,519
+When he called back, he got a bishop who was supposed to serve as a translator.
+
+218
+00:23:47,289 --> 00:23:49,700
+but they never actually got the Pope on the line.
+
+219
+00:23:49,700 --> 00:23:54,200
+They realized that Woz wasn't Henry Kissinger, Jobs recalled.
+
+220
+00:23:54,200 --> 00:23:56,399
+We were at a public phone booth.
+
+221
+00:23:58,029 --> 00:24:04,000
+It was then that they reached an important milestone, one that would establish a pattern in their partnerships.
+
+222
+00:24:04,000 --> 00:24:09,440
+Jobs came up with the idea that the blue box could be more than merely a hobby.
+
+223
+00:24:09,440 --> 00:24:11,880
+They could build and sell them.
+
+224
+00:24:11,880 --> 00:24:24,240
+I got together the rest of the components, like the casing and power supply and keypads, and figured out how we could price it, Jobs said, foreshadowing roles he would play when they founded Apple.
+
+225
+00:24:24,740 --> 00:24:34,960
+The finished product was about the size of two decks of playing cards, The parts cost about $40, and Jobs decided they should sell it for $150.
+
+226
+00:24:37,319 --> 00:24:42,879
+Following the lead of other phone freaks such as Captain Crunch, they gave themselves handles.
+
+227
+00:24:42,879 --> 00:24:46,059
+Wozniak became Berkeley Blue.
+
+228
+00:24:46,059 --> 00:24:48,619
+Jobs was oaf to bark.
+
+229
+00:24:48,619 --> 00:24:54,920
+They took the device to college dorms and gave demonstrations by attaching it to a phone and speaker.
+
+230
+00:24:54,920 --> 00:25:02,680
+While the potential customers watched, they would call the Ritz in London or a dial-a-joke service in Australia.
+
+231
+00:25:03,680 --> 00:25:08,460
+We made a hundred or so blue boxes and sold almost all of them, Jobs recalled.
+
+232
+00:25:10,269 --> 00:25:13,660
+The fun and profits came to an end at a Sunnyvale pizza parlor.
+
+233
+00:25:13,660 --> 00:25:19,360
+Jobs and Wozniak were about to drive to Berkeley with a blue box they had just finished making.
+
+234
+00:25:19,360 --> 00:25:25,700
+Jobs needed money and was eager to sell, so he pitched the device to some guys at the next table.
+
+235
+00:25:25,700 --> 00:25:31,940
+They were interested, so Jobs went to a phone booth and demonstrated it with a call to Chicago.
+
+236
+00:25:31,940 --> 00:25:35,420
+The prospects said they had to go to their car for money.
+
+237
+00:25:36,039 --> 00:25:44,880
+So we walk over to the car, Waz and me, and I've got the blue box in my hand, and the guy gets in, reaches under the seat, and he pulls out a gun.
+
+238
+00:25:45,579 --> 00:25:46,539
+Jobs recounted.
+
+239
+00:25:46,539 --> 00:25:50,619
+He had never been that close to a gun, and he was terrified.
+
+240
+00:25:50,619 --> 00:25:56,339
+So he's pointing the gun right at my stomach, and he says, Hand it over, brother.
+
+241
+00:25:56,339 --> 00:25:58,539
+My mind raced.
+
+242
+00:25:58,539 --> 00:26:08,859
+There was the car door here, and I thought maybe I could slam it on his legs and we could run, but there was this high probability that he would shoot me.
+
+243
+00:26:08,859 --> 00:26:13,259
+So I slowly handed it to him, very carefully.
+
+244
+00:26:14,730 --> 00:26:16,160
+It was a weird sort of robbery.
+
+245
+00:26:16,160 --> 00:26:23,880
+The guy who took the blue box actually gave Jobs a phone number and said he would try to pay for it if it worked.
+
+246
+00:26:23,880 --> 00:26:29,560
+When Jobs later called the number, the guy told him he couldn't figure out how to use it.
+
+247
+00:26:29,560 --> 00:26:36,620
+So Jobs, in his felicitous way, convinced the guy to meet him and Wozniak at a public place.
+
+248
+00:26:36,620 --> 00:26:44,840
+But they ended up deciding not to have another encounter with the gunman, even on the off chance they could get their $150.
+
+249
+00:26:47,319 --> 00:26:51,279
+The partnership paved the way for what would be a bigger adventure together.
+
+250
+00:26:51,279 --> 00:26:57,460
+If it hadn't been for the blue boxes, there wouldn't have been an apple, Jobs later reflected.
+
+251
+00:26:57,460 --> 00:27:00,339
+I'm a hundred percent sure of that.
+
+252
+00:27:00,339 --> 00:27:09,079
+Woz and I learned how to work together, and we gained the confidence that we could solve technical problems and actually put something into production.
+
+253
+00:27:09,700 --> 00:27:17,519
+They had created a device with a little circuit board that could control billions of dollars worth of infrastructure.
+
+254
+00:27:18,639 --> 00:27:21,539
+You cannot believe how much confidence that gave us.
+
+255
+00:27:21,539 --> 00:27:24,359
+Waz came to the same conclusion.
+
+256
+00:27:24,359 --> 00:27:32,879
+It was probably a bad idea selling them, but it gave us a taste of what we could do with my engineering skills and his vision.
+
+257
+00:27:34,450 --> 00:27:39,780
+The Blue Box Adventure established a template for a partnership that would soon be born.
+
+258
+00:27:39,780 --> 00:27:54,900
+Wozniak would be the gentle wizard coming up with a neat invention that he would have been happy just to give away, and Jobs would figure out how to make it user-friendly, put it together in a package, market it, and make a few bucks.
+
+259
+00:27:59,490 --> 00:28:04,460
+Chapter 3 The Dropout Turn on.
+
+260
+00:28:04,460 --> 00:28:05,799
+Tune in.
+
+261
+00:28:08,480 --> 00:28:09,480
+Chris-Ann Brennan.
+
+262
+00:28:11,659 --> 00:28:21,799
+Toward the end of his senior year at Homestead in the spring of 1972, Jobs started going out with a girl named Chris-Ann Brennan, who was about his age but still a junior.
+
+263
+00:28:21,799 --> 00:28:29,740
+With her light brown hair, green eyes, high cheekbones, and fragile aura, she was very attractive.
+
+264
+00:28:29,740 --> 00:28:35,119
+She was also enduring the breakup of her parents' marriage, which made her vulnerable.
+
+265
+00:28:35,859 --> 00:28:43,279
+We worked together on an animated movie, then started going out, and she became my first real girlfriend, Jobs recalled.
+
+266
+00:28:44,149 --> 00:28:47,319
+As Brennan later said, Steve was kind of crazy.
+
+267
+00:28:47,319 --> 00:28:49,839
+That's why I was attracted to him.
+
+268
+00:28:51,460 --> 00:28:54,400
+Job's craziness was of the cultivated sort.
+
+269
+00:28:54,400 --> 00:29:04,360
+He had begun his lifelong experiments with compulsive diets, eating only fruits and vegetables, so he was as lean and tight as a whippet.
+
+270
+00:29:04,360 --> 00:29:13,540
+He learned to stare at people without blinking, and he perfected long silences punctuated by staccato bursts of fast talking.
+
+271
+00:29:13,540 --> 00:29:24,020
+This odd mix of intensity and aloofness, combined with his shoulder-length hair and scraggly beard, gave him the aura of a crazed shaman.
+
+272
+00:29:24,960 --> 00:29:27,940
+He oscillated between charismatic and creepy.
+
+273
+00:29:27,940 --> 00:29:32,040
+He shuffled around and looked half mad, recalled Brennan.
+
+274
+00:29:32,040 --> 00:29:33,960
+He had a lot of angst.
+
+275
+00:29:33,960 --> 00:29:36,420
+It was like a big darkness around him.
+
+276
+00:29:36,420 --> 00:29:44,960
+Jobs had begun to drop acid by then, and he turned Brennan on to it as well, in a wheat field just outside of Sunnyvale.
+
+277
+00:29:44,960 --> 00:29:47,040
+It was great, he recalled.
+
+278
+00:29:47,040 --> 00:29:49,120
+I had been listening to a lot of Bach.
+
+279
+00:29:49,120 --> 00:29:52,080
+All of a sudden, the wheat field was playing Bach.
+
+280
+00:29:52,320 --> 00:29:55,260
+It was the most wonderful feeling of my life up to that point.
+
+281
+00:29:56,089 --> 00:30:00,379
+I felt like the conductor of this symphony with Bach coming through the wheat.
+
+282
+00:30:02,159 --> 00:30:09,519
+That summer of 1972, after his graduation, he and Brennan moved to a cabin in the hills above Los Altos.
+
+283
+00:30:09,519 --> 00:30:14,419
+I'm going to live in a cabin with Chris Ann, he announced to his parents one day.
+
+284
+00:30:14,419 --> 00:30:16,439
+His father was furious.
+
+285
+00:30:16,439 --> 00:30:19,659
+No, you're not, he said, over my dead body.
+
+286
+00:30:19,659 --> 00:30:25,819
+They had recently fought about marijuana, and once again the younger Jobs was willful.
+
+287
+00:30:25,819 --> 00:30:28,899
+He just said goodbye and walked out.
+
+288
+00:30:30,450 --> 00:30:32,840
+Brennan spent a lot of her time that summer painting.
+
+289
+00:30:32,840 --> 00:30:38,420
+She was talented, and she did a picture of a clown for Jobs that he kept on the wall.
+
+290
+00:30:38,420 --> 00:30:41,660
+Jobs wrote poetry and played guitar.
+
+291
+00:30:41,660 --> 00:30:49,740
+He could be brutally cold and rude to her at times, but he was also entrancing and able to impose his will.
+
+292
+00:30:49,740 --> 00:30:54,260
+He was an enlightened being who was cruel, she recalled.
+
+293
+00:30:54,260 --> 00:30:56,400
+That's a strange combination.
+
+294
+00:30:58,450 --> 00:31:03,100
+Midway through the summer, Jobs was almost killed when his red Fiat caught fire.
+
+295
+00:31:03,100 --> 00:31:17,520
+He was driving on Skyline Boulevard in the Santa Cruz Mountains with a high school friend, Tim Brown, who looked back, saw flames coming from the engine, and casually said to Jobs, Pull over, your car's on fire.
+
+296
+00:31:17,520 --> 00:31:19,300
+Jobs did.
+
+297
+00:31:19,300 --> 00:31:24,820
+His father, despite their arguments, drove out to the hills to tow the Fiat home.
+
+298
+00:31:26,349 --> 00:31:34,660
+In order to find a way to make money for a new car, Jobs got Wozniak to drive him to De Anza College to look on the help-wanted bulletin board.
+
+299
+00:31:34,660 --> 00:31:43,619
+They discovered that the Westgate Shopping Center in San Jose was seeking college students who could dress up in costumes and amuse the kids.
+
+300
+00:31:43,619 --> 00:31:55,139
+So for three dollars an hour, Jobs, Wozniak, and Brennan donned heavy, full-body costumes and headgear to play Alice in Wonderland, the Mad Hatter, and the White Rabbit.
+
+301
+00:31:55,990 --> 00:31:59,599
+Wozniak, in his earnest and sweet way, found it fun.
+
+302
+00:32:00,390 --> 00:32:01,760
+I said, I want to do it.
+
+303
+00:32:01,760 --> 00:32:04,540
+It's my chance, because I love children.
+
+304
+00:32:04,540 --> 00:32:10,640
+I think Steve looked at it as a lousy job, but I looked at it as a fun adventure.
+
+305
+00:32:12,119 --> 00:32:14,319
+Jobs did indeed find it a pain.
+
+306
+00:32:14,319 --> 00:32:21,079
+It was hot, the costumes were heavy, and after a while I felt like I wanted to smack some of the kids.
+
+307
+00:32:21,079 --> 00:32:24,460
+Patience was never one of his virtues.
+
+308
+00:32:28,569 --> 00:32:29,500
+Read College.
+
+309
+00:32:31,730 --> 00:32:35,779
+Seventeen years earlier, Jobs' parents had made a pledge when they adopted him.
+
+310
+00:32:35,779 --> 00:32:37,799
+He would go to college.
+
+311
+00:32:37,799 --> 00:32:46,200
+So they had worked hard and saved dutifully for his college fund, which was modest but adequate by the time he graduated.
+
+312
+00:32:46,200 --> 00:32:50,779
+But Jobs, becoming ever more willful, did not make it easy.
+
+313
+00:32:50,779 --> 00:32:54,060
+At first he toyed with not going to college at all.
+
+314
+00:32:54,060 --> 00:33:05,500
+I think I might have headed to New York if I didn't go to college, he recalled, musing on how different his world, and perhaps all of ours, might have been if he had chosen that path.
+
+315
+00:33:06,529 --> 00:33:11,799
+When his parents pushed him to go to college, he responded in a passive-aggressive way.
+
+316
+00:33:11,799 --> 00:33:19,640
+He did not consider state schools, such as Berkeley, where Waz then was, despite the fact that they were more affordable.
+
+317
+00:33:19,640 --> 00:33:24,500
+Nor did he look at Stanford, just up the road and likely to offer a scholarship.
+
+318
+00:33:24,500 --> 00:33:30,319
+The kids who went to Stanford, they already knew what they wanted to do, he said.
+
+319
+00:33:30,319 --> 00:33:32,079
+They weren't really artistic.
+
+320
+00:33:32,079 --> 00:33:35,700
+I wanted something that was more artistic and interesting.
+
+321
+00:33:37,129 --> 00:33:46,319
+Instead, he insisted on applying only to Reed College, a private liberal arts school in Portland, Oregon, that was one of the most expensive in the nation.
+
+322
+00:33:46,319 --> 00:33:55,720
+He was visiting Waz at Berkeley when his father called to say an acceptance letter had arrived from Reed, and he tried to talk Steve out of going there.
+
+323
+00:33:55,720 --> 00:33:57,199
+So did his mother.
+
+324
+00:33:57,199 --> 00:34:00,279
+It was far more than they could afford, they said.
+
+325
+00:34:00,279 --> 00:34:03,379
+But their son responded with an ultimatum.
+
+326
+00:34:03,970 --> 00:34:07,199
+If he couldn't go to read, he wouldn't go anywhere.
+
+327
+00:34:08,199 --> 00:34:09,880
+They relented as usual.
+
+328
+00:34:11,290 --> 00:34:15,980
+Reed had only 1,000 students, half the number at Homestead High.
+
+329
+00:34:15,980 --> 00:34:25,660
+It was known for its free-spirited hippie lifestyle, which combined somewhat uneasily with its rigorous academic standards and core curriculum.
+
+330
+00:34:25,660 --> 00:34:50,099
+Five years earlier, Timothy Leary, the guru of psychedelic enlightenment, had sat cross-legged at the Reed College Commons while on his League for Spiritual Discovery, LSD, college tour, during which he exhorted his listeners, Like every great religion of the past, we seek to find the divinity within.
+
+331
+00:34:50,099 --> 00:34:54,619
+These ancient goals we define in the metaphor of the present.
+
+332
+00:34:54,619 --> 00:34:58,360
+Turn on, tune in, drop out.
+
+333
+00:34:59,920 --> 00:35:03,900
+Many of Reed's students took all three of those injunctions seriously.
+
+334
+00:35:03,900 --> 00:35:08,519
+The dropout rate during the 1970s was more than one-third.
+
+335
+00:35:10,480 --> 00:35:16,679
+When it came time for Jobs to matriculate in the fall of 1972, his parents drove him up to Portland.
+
+336
+00:35:16,679 --> 00:35:22,179
+But in another small act of rebellion, he refused to let them come on campus.
+
+337
+00:35:22,179 --> 00:35:26,840
+In fact, he refrained from even saying goodbye or thanks.
+
+338
+00:35:26,840 --> 00:35:30,860
+He recounted the moment later with uncharacteristic regret.
+
+339
+00:35:32,440 --> 00:35:35,140
+It's one of the things in life I really feel ashamed about.
+
+340
+00:35:35,140 --> 00:35:38,619
+I was not very sensitive, and I hurt their feelings.
+
+341
+00:35:38,619 --> 00:35:39,420
+I shouldn't have.
+
+342
+00:35:39,420 --> 00:35:44,780
+They had done so much to make sure I could go there, but I just didn't want them around.
+
+343
+00:35:44,780 --> 00:35:47,559
+I didn't want anyone to know I had parents.
+
+344
+00:35:47,559 --> 00:35:58,059
+I wanted to be like an orphan who had bummed around the country on trains and just arrived out of nowhere, with no roots, no connections, no background.
+
+345
+00:35:59,970 --> 00:36:05,940
+In late 1972, there was a fundamental shift happening in American campus life.
+
+346
+00:36:05,940 --> 00:36:12,619
+The nation's involvement in the Vietnam War and the draft that accompanied it was winding down.
+
+347
+00:36:12,619 --> 00:36:22,460
+Political activism at colleges receded, and in many late-night dorm conversations was replaced by an interest in pathways to personal fulfillment.
+
+348
+00:36:22,460 --> 00:36:39,879
+Jobs found himself deeply influenced by a variety of books on spirituality and enlightenment, Most notably, Be Here Now, a guide to meditation and the wonders of psychedelic drugs by Baba Ram Dass, born Richard Alpert.
+
+349
+00:36:39,879 --> 00:36:43,099
+It was profound, Jobs said.
+
+350
+00:36:43,099 --> 00:36:46,059
+It transformed me and many of my friends.
+
+351
+00:36:47,599 --> 00:36:59,860
+The closest of those friends was another wispy-bearded freshman named Daniel Kotke, who met Jobs a week after they arrived at Reed and shared his interest in Zen, Dylan, and acid.
+
+352
+00:36:59,860 --> 00:37:10,980
+Kotke, from a wealthy New York suburb, was smart but low-octane, with a sweet flower-child demeanor made even mellower by his interest in Buddhism.
+
+353
+00:37:10,980 --> 00:37:21,079
+That spiritual quest had caused him to eschew material possessions, but he was nonetheless impressed by Job's tape deck.
+
+354
+00:37:21,710 --> 00:37:27,819
+Steve had a TEAC reel-to-reel in massive quantities of Dylan bootlegs, Kotke recalled.
+
+355
+00:37:27,819 --> 00:37:31,400
+He was both really cool and high-tech.
+
+356
+00:37:32,900 --> 00:37:47,260
+Job started spending much of his time with Kotki and his girlfriend Elizabeth Holmes, even after he insulted her at their first meeting by grilling her about how much money it would take to get her to have sex with another man.
+
+357
+00:37:47,260 --> 00:38:02,260
+They hitchhiked to the coast together, engaged in the typical dorm raps about the meaning of life, attended the love festivals at the local Hare Krishna temple, and went to the Zen center for free vegetarian meals.
+
+358
+00:38:03,440 --> 00:38:10,360
+It was a lot of fun, said Kotki, but also philosophical, and we took Zen very seriously.
+
+359
+00:38:10,360 --> 00:38:29,820
+Jobs began sharing with Kotki other books, including Zen Mind, Beginner's Mind by Shunryu Suzuki, Autobiography of a Yogi by Paramahansa Yogananda, and Cutting Through Spiritual Materialism by Chogyam Trongpa.
+
+360
+00:38:30,539 --> 00:38:44,119
+They created a meditation room in the attic crawlspace above Elizabeth Holmes's room and fixed it up with Indian prints, a doery rug, candles, incense, and meditation cushions.
+
+361
+00:38:45,010 --> 00:38:50,309
+There was a hatch in the ceiling leading to an attic which had a huge amount of space, Jobs said.
+
+362
+00:38:50,309 --> 00:38:55,340
+We took psychedelic drugs there sometimes, but mainly we just meditated.
+
+363
+00:38:55,340 --> 00:39:04,650
+Jobs' engagement with Eastern spirituality, and especially Zen Buddhism, was not just some passing fancy or youthful dabbling.
+
+364
+00:39:04,650 --> 00:39:10,420
+He embraced it with his typical intensity, and it became deeply ingrained in his personality.
+
+365
+00:39:11,750 --> 00:39:14,380
+Steve is very much Zen, said Kotke.
+
+366
+00:39:14,380 --> 00:39:16,099
+It was a deep influence.
+
+367
+00:39:16,199 --> 00:39:21,819
+You see it in his whole approach of stark, minimalist aesthetics, intense focus.
+
+368
+00:39:21,819 --> 00:39:28,699
+Jobs also became deeply influenced by the emphasis that Buddhism places on intuition.
+
+369
+00:39:28,699 --> 00:39:41,000
+I began to realize that an intuitive understanding in consciousness was more significant than abstract thinking and intellectual logical analysis, he later said.
+
+370
+00:39:41,519 --> 00:39:46,659
+His intensity, however, made it difficult for him to achieve inner peace.
+
+371
+00:39:47,340 --> 00:39:54,100
+His Zen awareness was not accompanied by an excess of calm, peace of mind, or interpersonal mellowness.
+
+372
+00:39:55,750 --> 00:40:04,639
+He and Kotke enjoyed playing a 19th century German variant of chess called Kriegspiel, in which the players sit back to back.
+
+373
+00:40:04,639 --> 00:40:09,460
+Each has his own board and pieces and cannot see those of his opponent.
+
+374
+00:40:09,460 --> 00:40:19,699
+A moderator informs them if a move they want to make is legal or illegal, and they have to try to figure out where their opponent's pieces are.
+
+375
+00:40:19,699 --> 00:40:29,179
+The wildest game I played with them was during a lashing rainstorm sitting by the fireside, recalled Holmes, who served as moderator.
+
+376
+00:40:30,260 --> 00:40:31,840
+They were tripping on acid.
+
+377
+00:40:31,840 --> 00:40:35,360
+They were moving so fast I could barely keep up with them.
+
+378
+00:40:35,360 --> 00:40:49,360
+Another book that deeply influenced Jobs during his freshman year was Diet for a Small Planet by Francis Moore Lappe, which extolled the personal and planetary benefits of vegetarianism.
+
+379
+00:40:49,360 --> 00:40:53,640
+That's when I swore off meat pretty much for good, he recalled.
+
+380
+00:40:53,640 --> 00:41:07,799
+But the book also reinforced his tendency to embrace extreme diets, which included purges, fasts, or eating only one or two foods, such as carrots or apples, for weeks on end.
+
+381
+00:41:09,310 --> 00:41:13,940
+Jobs and Kotki became serious vegetarians during their freshman year.
+
+382
+00:41:13,940 --> 00:41:17,820
+Steve got into it even more than I did, said Kotki.
+
+383
+00:41:17,820 --> 00:41:20,660
+He was living off Roman meal cereal.
+
+384
+00:41:20,660 --> 00:41:29,140
+They would go shopping at a farmer's co-op where Jobs would buy a box of cereal, which would last a week, and other bulk health food.
+
+385
+00:41:29,140 --> 00:41:38,640
+He would buy flats of dates and almonds and lots of carrots, and he got a champion juicer, and we'd make carrot juice and carrot salads.
+
+386
+00:41:39,900 --> 00:41:45,920
+There is a story about Steve turning orange from eating so many carrots, and there is some truth to that.
+
+387
+00:41:45,920 --> 00:41:52,200
+Friends remember him having, at times, a sunset-like orange hue.
+
+388
+00:41:53,960 --> 00:42:06,940
+Job's dietary habits became even more obsessive when he read Mucusless Diet Healing System by Arnold Ehret, an early 20th century German-born nutrition fanatic.
+
+389
+00:42:06,940 --> 00:42:21,019
+He believed in eating nothing but fruits and starchless vegetables, which he said prevented the body from forming harmful mucus, and he advocated cleansing the body regularly through prolonged fasts.
+
+390
+00:42:21,500 --> 00:42:27,440
+That meant the end of even Roman meal cereal, or any bread, grains, or milk.
+
+391
+00:42:28,570 --> 00:42:32,900
+Jobs began warning friends of the mucus dangers lurking in their bagels.
+
+392
+00:42:32,900 --> 00:42:37,099
+I got into it in my typical nutso way, he said.
+
+393
+00:42:37,099 --> 00:42:46,699
+At one point he and Kotki went for an entire week eating only apples, and then Jobs began to try even purer fasts.
+
+394
+00:42:46,699 --> 00:42:56,320
+He started with two-day fasts and eventually tried to stretch them to a week or more, breaking them carefully with large amounts of water and leafy vegetables.
+
+395
+00:42:57,539 --> 00:43:00,480
+After a week, you start to feel fantastic, he said.
+
+396
+00:43:00,679 --> 00:43:04,239
+get a ton of vitality from not having to digest all this food.
+
+397
+00:43:04,239 --> 00:43:06,269
+I was in great shape.
+
+398
+00:43:06,269 --> 00:43:10,919
+I felt I could get up and walk to San Francisco anytime I wanted.
+
+399
+00:43:12,719 --> 00:43:29,059
+vegetarianism and Zen Buddhism, meditation and spirituality, acid and rock, jobs rolled together in an amped-up way, the multiple impulses that were hallmarks of the enlightenment-seeking campus subculture of the era.
+
+400
+00:43:29,059 --> 00:43:41,419
+And even though he barely indulged it at Reed, there was still an undercurrent of electronic geekiness in his soul that would someday combine surprisingly well with the rest of the mix.
+
+401
+00:43:45,300 --> 00:43:53,679
+Robert Friedland In order to raise some cash one day, Jobs decided to sell his IBM Selectric typewriter.
+
+402
+00:43:53,679 --> 00:44:00,929
+He walked into the room of the student who had offered to buy it, only to discover that he was having sex with his girlfriend.
+
+403
+00:44:00,929 --> 00:44:06,019
+Jobs started to leave, but the student invited him to take a seat and wait while they finished.
+
+404
+00:44:06,019 --> 00:44:30,239
+I thought, this is kind of far out, Jobs later recalled, and thus began his relationship with Robert Friedland, one of the few people in Jobs's life "'who were able to mesmerize him.' He adopted some of Friedland's charismatic traits and for a few years treated him almost like a guru, until he began to see him as a charlatan.
+
+405
+00:44:30,239 --> 00:44:35,139
+Friedland was four years older than Jobs, but still an undergraduate.
+
+406
+00:44:35,139 --> 00:44:45,039
+The son of an Auschwitz survivor who became a prosperous Chicago architect, he had originally gone to Bowdoin, a liberal arts college in Maine.
+
+407
+00:44:45,789 --> 00:44:53,360
+But while a sophomore, he was arrested for possession of 24,000 tablets of LSD worth $125,000.
+
+408
+00:44:54,590 --> 00:45:01,319
+The local newspaper pictured him with shoulder-length, wavy, blonde hair, smiling at the photographers as he was led away.
+
+409
+00:45:01,319 --> 00:45:08,319
+He was sentenced to two years at a federal prison in Virginia, from which he was paroled in 1972.
+
+410
+00:45:08,319 --> 00:45:19,380
+That fall, he headed off to Reed, where he immediately ran for student body president, saying that he needed to clear his name from the miscarriage of justice he had suffered.
+
+411
+00:45:19,380 --> 00:45:20,599
+He won.
+
+412
+00:45:22,059 --> 00:45:32,559
+Friedland had heard Baba Ram Dass, the author of Be Here Now, give a speech in Boston, and like Jobs and Kotki, had gotten deeply into Eastern spirituality.
+
+413
+00:45:32,559 --> 00:45:45,599
+During the summer of 1973, he traveled to India to meet Ram Dass's Hindu guru, Neem Karoli Baba, famously known to his many followers as Maharaji.
+
+414
+00:45:45,599 --> 00:46:01,599
+When he returned that fall, Friedland had taken a spiritual name and walked around in sandals and flowing Indian robes, He had a room off campus, above a garage, and Jobs would go there many afternoons to seek him out.
+
+415
+00:46:01,599 --> 00:46:10,799
+He was entranced by the apparent intensity of Friedland's conviction that a state of enlightenment truly existed and could be attained.
+
+416
+00:46:10,799 --> 00:46:15,440
+He turned me on to a different level of consciousness, Jobs said.
+
+417
+00:46:17,059 --> 00:46:19,340
+Friedland found Jobs fascinating as well.
+
+418
+00:46:19,340 --> 00:46:23,800
+He was always walking around barefoot, he later told a reporter.
+
+419
+00:46:23,800 --> 00:46:26,460
+The thing that struck me was his intensity.
+
+420
+00:46:26,460 --> 00:46:31,719
+Whatever he was interested in, he would generally carry to an irrational extreme.
+
+421
+00:46:31,719 --> 00:46:37,840
+Jobs had honed his trick of using stares and silences to master other people.
+
+422
+00:46:37,840 --> 00:46:42,119
+One of his numbers was to stare at the person he was talking to.
+
+423
+00:46:42,750 --> 00:46:51,039
+He would stare into their fucking eyeballs, ask some question, and would want a response without the other person averting their eyes.
+
+424
+00:46:52,650 --> 00:47:01,219
+According to Kotke, some of Jobs' personality traits, including a few that lasted throughout his career, were borrowed from Friedland.
+
+425
+00:47:01,219 --> 00:47:07,099
+Friedland taught Steve the reality distortion field, said Kotke.
+
+426
+00:47:07,099 --> 00:47:14,159
+He was charismatic and a bit of a con man and could bend situations to his very strong will.
+
+427
+00:47:14,159 --> 00:47:19,259
+He was mercurial, sure of himself, a little dictatorial.
+
+428
+00:47:22,579 --> 00:47:25,679
+like that after spending time with Robert.
+
+429
+00:47:26,430 --> 00:47:30,720
+Jobs also absorbed how Friedland made himself the center of attention.
+
+430
+00:47:30,720 --> 00:47:37,460
+Robert was very much an outgoing, charismatic guy, a real salesman, Kotke recalled.
+
+431
+00:47:37,460 --> 00:47:42,820
+When I first met Steve, he was shy and self-effacing, a very private guy.
+
+432
+00:47:42,820 --> 00:47:51,200
+I think Robert taught him a lot about selling, about coming out of his shell, of opening up and taking charge of a situation.
+
+433
+00:47:51,200 --> 00:47:55,019
+Friedland projected a high wattage aura.
+
+434
+00:47:56,380 --> 00:48:03,299
+"'Walk into a room and you would instantly notice him.' Steve was the absolute opposite when he came to read.
+
+435
+00:48:03,299 --> 00:48:07,619
+After he spent time with Robert, some of it started to rub off.
+
+436
+00:48:09,510 --> 00:48:17,380
+On Sunday evenings, Jobs and Friedland would go to the Hare Krishna temple on the western edge of Portland, often with Kotki and Holmes in tow.
+
+437
+00:48:17,380 --> 00:48:21,119
+They would dance and sing songs at the top of their lungs.
+
+438
+00:48:21,119 --> 00:48:25,820
+We would work ourselves into an ecstatic frenzy, Holmes recalled.
+
+439
+00:48:25,820 --> 00:48:29,440
+Robert would go insane and dance like crazy.
+
+440
+00:48:29,440 --> 00:48:34,000
+Steve was more subdued, as if he was embarrassed to let loose.
+
+441
+00:48:35,010 --> 00:48:39,519
+Then they would be treated to paper plates piled high with vegetarian food.
+
+442
+00:48:41,010 --> 00:48:52,719
+Friedland had stewardship of a 220-acre apple farm about 40 miles southwest of Portland that was owned by an eccentric millionaire uncle from Switzerland named Marcel Mueller.
+
+443
+00:48:54,219 --> 00:49:07,849
+After Friedland became involved with Eastern spirituality, he turned it into a commune called the All One Farm, and Jobs would spend weekends there with Kotke, Holmes, and like-minded seekers of Enlightenment.
+
+444
+00:49:07,849 --> 00:49:15,929
+The farm had a main house, a large barn, and a garden shed where Kotke and Holmes slept.
+
+445
+00:49:15,929 --> 00:49:21,179
+Jobs took on the task of pruning the Gravenstein apple trees.
+
+446
+00:49:24,179 --> 00:49:27,779
+We were in the organic cider business.
+
+447
+00:49:27,990 --> 00:49:34,280
+Steve's job was to lead a crew of freaks to prune the orchard and whip it back into shape.
+
+448
+00:49:35,699 --> 00:49:45,480
+Monks and disciples from the Hare Krishna temple would come and prepare vegetarian feasts, redolent with cumin, coriander, and turmeric.
+
+449
+00:49:45,480 --> 00:49:51,119
+Steve would be starving when he arrived, and he would stuff himself, Holmes recalled.
+
+450
+00:49:51,119 --> 00:49:53,559
+Then he would go and purge.
+
+451
+00:49:53,559 --> 00:49:55,919
+For years I thought he was bulimic.
+
+452
+00:49:55,919 --> 00:50:03,339
+It was very upsetting, because we had gone to all that trouble of creating these feasts, and he couldn't hold it down.
+
+453
+00:50:04,930 --> 00:50:10,220
+Jobs was also beginning to have a little trouble stomaching Friedland's cult leader style.
+
+454
+00:50:10,220 --> 00:50:15,559
+Perhaps he saw a little bit too much of Robert in himself, said Kotke.
+
+455
+00:50:15,559 --> 00:50:23,340
+Although the commune was supposed to be a refuge from materialism, Friedland began operating it more as a business.
+
+456
+00:50:23,340 --> 00:50:34,640
+His followers were told to chop and sell firewood, make apple presses and wood stoves, and engage in other commercial endeavors for which they were not paid.
+
+457
+00:50:35,539 --> 00:50:44,599
+One night Jobs slept under the table in the kitchen and was amused to notice that people kept coming in and stealing each other's food from the refrigerator.
+
+458
+00:50:44,599 --> 00:50:47,760
+Communal economics were not for him.
+
+459
+00:50:47,760 --> 00:50:51,820
+It started to get very materialistic, Jobs recalled.
+
+460
+00:50:51,820 --> 00:50:59,119
+Everybody got the idea they were working very hard for Robert's farm, and one by one they started to leave.
+
+461
+00:50:59,119 --> 00:51:00,960
+I got pretty sick of it.
+
+462
+00:51:02,500 --> 00:51:13,199
+Many years later, after Friedland had become a billionaire copper and gold mining executive, working out of Vancouver, Singapore, and Mongolia, I met him for drinks in New York.
+
+463
+00:51:13,199 --> 00:51:16,940
+That evening I emailed Jobs and mentioned my encounter.
+
+464
+00:51:16,940 --> 00:51:22,559
+He telephoned me from California within an hour and warned me against listening to Friedland.
+
+465
+00:51:22,559 --> 00:51:36,039
+He said that when Friedland was in trouble because of environmental abuses committed by some of his mines, He had tried to contact Jobs to intervene with Bill Clinton, but Jobs had not responded.
+
+466
+00:51:37,360 --> 00:51:45,900
+Robert always portrayed himself as a spiritual person, but he crossed the line from being charismatic to being a con man, Jobs said.
+
+467
+00:51:45,900 --> 00:51:55,280
+It was a strange thing to have one of the spiritual people in your young life turn out to be, symbolically, and in reality, a gold miner.
+
+468
+00:51:59,239 --> 00:51:59,900
+Drop out.
+
+469
+00:51:59,900 --> 00:52:04,259
+Jobs quickly became bored with college.
+
+470
+00:52:04,259 --> 00:52:08,519
+He liked being at Reed, just not taking the required classes.
+
+471
+00:52:08,519 --> 00:52:16,019
+In fact, he was surprised when he found out that for all of its hippie aura, there were strict course requirements.
+
+472
+00:52:16,019 --> 00:52:24,139
+When Wozniak came to visit, Jobs waved his schedule at him and complained, they are making me take all these courses.
+
+473
+00:52:24,139 --> 00:52:28,819
+Woz replied, yes, that's what they do in college.
+
+474
+00:52:29,590 --> 00:52:40,519
+Jobs refused to go to the classes he was assigned and instead went to the ones he wanted, such as a dance class where he could enjoy both the creativity and the chance to meet girls.
+
+475
+00:52:40,519 --> 00:52:45,139
+I would never have refused to take the courses you were supposed to.
+
+476
+00:52:45,139 --> 00:52:49,360
+That's a difference in our personality, Wozniak marveled.
+
+477
+00:52:49,360 --> 00:52:59,039
+Jobs also began to feel guilty, he later said, about spending so much of his parents' money on an education that did not seem worthwhile.
+
+478
+00:53:00,219 --> 00:53:08,579
+All of my working-class parents' savings were being spent on my college tuition, he recounted in a famous commencement address at Stanford.
+
+479
+00:53:08,579 --> 00:53:16,159
+I had no idea what I wanted to do with my life and no idea how college was going to help me figure it out.
+
+480
+00:53:16,159 --> 00:53:21,819
+And here I was spending all of the money my parents had saved their entire life.
+
+481
+00:53:21,819 --> 00:53:26,799
+So I decided to drop out and trust that it would all work out okay.
+
+482
+00:53:27,739 --> 00:53:30,739
+He didn't actually want to leave Reed.
+
+483
+00:53:30,880 --> 00:53:35,440
+He just wanted to quit paying tuition and taking classes that didn't interest him.
+
+484
+00:53:35,440 --> 00:53:39,119
+Remarkably, Reed tolerated that.
+
+485
+00:53:39,119 --> 00:53:46,579
+He had a very inquiring mind that was enormously attractive, said the Dean of Students, Jack Dudman.
+
+486
+00:53:46,579 --> 00:53:54,180
+He refused to accept automatically received truths, and he wanted to examine everything himself.
+
+487
+00:53:55,329 --> 00:54:01,940
+Dudman allowed Jobs to audit classes and stay with friends in the dorms even after he stopped paying tuition.
+
+488
+00:54:03,440 --> 00:54:12,519
+The minute I dropped out, I could stop taking the required classes that didn't interest me and begin dropping in on the ones that looked interesting, he said.
+
+489
+00:54:12,519 --> 00:54:20,780
+Among them was a calligraphy class that appealed to him after he saw posters on campus that were beautifully drawn.
+
+490
+00:54:20,780 --> 00:54:32,780
+I learned about serif and sans-serif typefaces, about varying the amount of space between different letter combinations, about what makes great topography great.
+
+491
+00:54:33,400 --> 00:54:40,940
+It was beautiful, historical, artistically subtle in a way that science can't capture, and I found it fascinating.
+
+492
+00:54:42,500 --> 00:54:49,559
+It was yet another example of Jobs consciously positioning himself at the intersection of the arts and technology.
+
+493
+00:54:49,559 --> 00:54:58,519
+In all of his products, technology would be married to great design, elegance, human touches, and even romance.
+
+494
+00:54:58,519 --> 00:55:03,639
+He would be in the fore of pushing friendly graphical user interfaces.
+
+495
+00:55:03,639 --> 00:55:07,980
+The calligraphy course would become iconic in that regard.
+
+496
+00:55:09,070 --> 00:55:17,760
+If I had never dropped in on that single course in college, the Mac would never have had multiple typefaces or proportionally spaced fonts.
+
+497
+00:55:18,450 --> 00:55:24,019
+And since Windows just copied the Mac, it's likely that no personal computer would have them.
+
+498
+00:55:26,230 --> 00:55:31,039
+In the meantime, Jobs eked out a bohemian existence on the fringes of Reed.
+
+499
+00:55:31,039 --> 00:55:35,679
+He went barefoot most of the time, wearing sandals when it snowed.
+
+500
+00:55:35,679 --> 00:55:41,339
+Elizabeth Holmes made meals for him, trying to keep up with his obsessive diets.
+
+501
+00:55:41,339 --> 00:55:55,179
+He returned soda bottles for spare change, continued his treks to the free Sunday dinners at the Hare Krishna temple, and wore a down jacket in the heatless garage apartment he rented for $20 a month.
+
+502
+00:55:56,089 --> 00:56:05,559
+When he needed money... He found work at the psychology department lab maintaining the electronic equipment that was used for animal behavior experiments.
+
+503
+00:56:05,559 --> 00:56:09,139
+Occasionally, Chrisanne Brennan would come to visit.
+
+504
+00:56:09,139 --> 00:56:18,819
+Their relationships sputtered along erratically, but mostly he tended to the stirrings of his own soul and personal quest for enlightenment.
+
+505
+00:56:20,440 --> 00:56:23,599
+I came of age at a magical time, he reflected later.
+
+506
+00:56:23,599 --> 00:56:28,519
+Our consciousness was raised by Zen and also by LSD.
+
+507
+00:56:28,519 --> 00:56:34,360
+Even later in life, he would credit psychedelic drugs for making him more enlightened.
+
+508
+00:56:34,360 --> 00:56:40,740
+Taking LSD was a profound experience, one of the most important things in my life.
+
+509
+00:56:40,740 --> 00:56:48,980
+LSD shows you that there's another side to the coin, and you can't remember it when it wears off, but you know it.
+
+510
+00:56:49,700 --> 00:56:55,700
+It reinforced my sense of what was important, creating great things instead of making money.
+
+511
+00:56:56,280 --> 00:57:01,980
+putting things back into the stream of history and of human consciousness as much as I could.
+
+512
+00:57:06,630 --> 00:57:08,090
+Chapter 4.
+
+513
+00:57:08,090 --> 00:57:29,420
+Atari and India Zen and the Art of Game Design In February 1974, after 18 months of hanging around Reed, Jobs decided to move back to his parents' home in Los Altos and look for a job.
+
+514
+00:57:29,420 --> 00:57:31,650
+It was not a difficult search.
+
+515
+00:57:31,650 --> 00:57:41,920
+At peak times during the 1970s, the classified section of the San Jose Mercury carried up to 60 pages of technology help wanted ads.
+
+516
+00:57:41,920 --> 00:57:44,699
+One of those caught Jobs' eye.
+
+517
+00:57:44,699 --> 00:57:48,079
+Have fun, make money, it said.
+
+518
+00:57:48,450 --> 00:58:01,660
+That day Jobs walked into the lobby of the video game manufacturer Atari and told the personnel director, who was startled by his unkempt hair and attire, that he wouldn't leave until they gave him a job.
+
+519
+00:58:01,660 --> 00:58:16,380
+Atari's founder was a burly entrepreneur named Nolan Bushnell, who was a charismatic visionary with a nice touch of showmanship in him, in other words, another role model waiting to be emulated.
+
+520
+00:58:17,360 --> 00:58:24,660
+After he became famous, he liked driving around in a rolls, smoking dope, and holding staff meetings in a hot tub.
+
+521
+00:58:25,530 --> 00:58:39,139
+As Friedland had done, and as Jobs would learn to do, he was able to turn charm into a cunning force, to cajole and intimidate and distort reality with the power of his personality.
+
+522
+00:58:39,139 --> 00:58:51,440
+His chief engineer was Al Alcorn, beefy and jovial and a bit more grounded, the house grown-up trying to implement the vision and curb the enthusiasms of Bushnell.
+
+523
+00:58:52,250 --> 00:58:56,019
+Their big hit thus far was a video game called Pong.
+
+524
+00:58:56,579 --> 00:59:02,619
+in which two players tried to volley a blip on a screen with two movable lines that acted as paddles.
+
+525
+00:59:02,619 --> 00:59:05,860
+If you're under 30, ask your parents.
+
+526
+00:59:07,530 --> 00:59:13,699
+When Jobs arrived in the Atari lobby wearing sandals and demanding a job, Alcorn was the one who was summoned.
+
+527
+00:59:13,699 --> 00:59:16,849
+I was told, we've got a hippie kid in the lobby.
+
+528
+00:59:16,849 --> 00:59:19,559
+He says he's not going to leave until we hire him.
+
+529
+00:59:19,559 --> 00:59:21,949
+Should we call the cops or let him in?
+
+530
+00:59:21,949 --> 00:59:24,420
+I said, bring him on in.
+
+531
+00:59:24,420 --> 00:59:33,219
+Jobs thus became one of the first 50 employees at Atari working as a technician for $5 an hour.
+
+532
+00:59:34,070 --> 00:59:39,119
+In retrospect, it was weird to hire a dropout from Reed, Alcorn recalled.
+
+533
+00:59:39,780 --> 00:59:41,240
+but I saw something in him.
+
+534
+00:59:41,240 --> 00:59:45,740
+He was very intelligent, enthusiastic, excited about tech.
+
+535
+00:59:45,740 --> 00:59:51,380
+Alcorn assigned him to work with a straight-laced engineer named Don Lang.
+
+536
+00:59:51,380 --> 00:59:53,720
+The next day, Lang complained.
+
+537
+00:59:53,720 --> 00:59:59,040
+This guy's a goddamn hippie with B.O. Why did you do this to me?
+
+538
+00:59:59,040 --> 01:00:01,440
+And he's impossible to deal with.
+
+539
+01:00:01,440 --> 01:00:10,400
+Jobs clung to the belief that his fruit-heavy, vegetarian diet would prevent not just mucus, but also body odor.
+
+540
+01:00:10,980 --> 01:00:14,059
+even if he didn't use deodorant or shower regularly.
+
+541
+01:00:14,059 --> 01:00:16,320
+It was a flawed theory.
+
+542
+01:00:16,320 --> 01:00:22,280
+Lang and others wanted to let Jobs go, but Bushnell worked out a solution.
+
+543
+01:00:22,280 --> 01:00:26,320
+The smell and behavior wasn't an issue with me, he said.
+
+544
+01:00:26,320 --> 01:00:31,699
+Steve was prickly, but I kind of liked him, so I asked him to go on the night shift.
+
+545
+01:00:31,699 --> 01:00:33,760
+It was a way to save him.
+
+546
+01:00:33,760 --> 01:00:39,219
+Jobs would come in after Lang and others had left and work through most of the night.
+
+547
+01:00:39,869 --> 01:00:43,199
+Even thus isolated, he became known for his brashness.
+
+548
+01:00:43,880 --> 01:00:50,980
+On those occasions when he happened to interact with others, he was prone to informing them that they were dumb shits.
+
+549
+01:00:50,980 --> 01:00:54,500
+In retrospect, he stands by that judgment.
+
+550
+01:00:54,500 --> 01:00:59,720
+The only reason I shone was that everyone else was so bad, Jobs recalled.
+
+551
+01:01:01,219 --> 01:01:06,539
+Despite his arrogance, or perhaps because of it, he was able to charm Atari's boss.
+
+552
+01:01:06,539 --> 01:01:11,519
+He was more philosophical than the other people I worked with, Bushnell recalled.
+
+553
+01:01:11,519 --> 01:01:15,239
+We used to discuss free will versus determinism.
+
+554
+01:01:15,239 --> 01:01:19,940
+I tended to believe that things were much more determined, that we were programmed.
+
+555
+01:01:19,940 --> 01:01:24,919
+If we had perfect information, we could predict people's actions.
+
+556
+01:01:24,919 --> 01:01:27,099
+Steve felt the opposite.
+
+557
+01:01:28,009 --> 01:01:33,679
+that outlook accorded with his faith in the power of the will to bend reality.
+
+558
+01:01:34,340 --> 01:01:44,720
+Jobs helped improve some of the games by pushing the chips to produce fun designs, and Bushnell's inspiring willingness to play by his own rules rubbed off on him.
+
+559
+01:01:44,720 --> 01:01:50,360
+In addition, he intuitively appreciated the simplicity of Atari's games.
+
+560
+01:01:50,360 --> 01:01:57,640
+They came with no manual and needed to be uncomplicated enough that a stoned freshman could figure them out.
+
+561
+01:01:57,640 --> 01:02:02,460
+The only instructions for Atari's Star Trek game were 1.
+
+562
+01:02:02,460 --> 01:02:06,440
+Insert quarter Two, avoid Klingons.
+
+563
+01:02:08,110 --> 01:02:10,340
+Not all of his co-workers shunned Jobs.
+
+564
+01:02:10,340 --> 01:02:18,159
+He became friends with Ron Wayne, a draftsman at Atari, who had earlier started a company that built slot machines.
+
+565
+01:02:18,159 --> 01:02:26,019
+It subsequently failed, but Jobs became fascinated with the idea that it was possible to start your own company.
+
+566
+01:02:26,019 --> 01:02:29,139
+Ron was an amazing guy, said Jobs.
+
+567
+01:02:29,139 --> 01:02:30,860
+He started companies.
+
+568
+01:02:30,860 --> 01:02:33,019
+I had never met anybody like that.
+
+569
+01:02:33,019 --> 01:02:36,779
+He proposed to Wayne that they go into business together.
+
+570
+01:02:37,460 --> 01:02:43,119
+Job said he could borrow $50,000 and they could design and market a slot machine.
+
+571
+01:02:43,119 --> 01:02:47,200
+But Wayne had already been burned in business, so he declined.
+
+572
+01:02:47,200 --> 01:02:56,900
+I said that was the quickest way to lose $50,000, Wayne recalled, but I admired the fact that he had a burning drive to start his own business.
