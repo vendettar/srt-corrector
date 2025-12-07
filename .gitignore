@@ -1,0 +1,14 @@
+# Python
+*.pyc
+__pycache__/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# OS generated files
+.DS_Store
+
+# Project specific
+# Files generated or used as intermediate in the srt correction process
+work_file/
